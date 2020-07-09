@@ -24,6 +24,12 @@
 	<link rel="stylesheet" href="css/slicknav.css">
 	<link rel="stylesheet" href="css/style.css">
 	<!-- <link rel="stylesheet" href="css/responsive.css"> -->
+    <style>
+        .slider_bg_1 {
+             background-image: url(img/imgsocial2.png);
+            
+        }
+    </style>
 </head>
 
 <body>
@@ -38,23 +44,31 @@
         ?>
     </header>
     <!-- header-end -->
-	
-		<!-- bradcam_area  -->
-		<div class="bradcam_area bradcam_bg_1">
-			<div class="container">
-				<div class="row">
-					<div class="col-xl-12">
-						<div class="bradcam_text text-center">
-							<h3>Digital Marketing</h3>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- /bradcam_area  -->
-
+	<!-- slider_area_start -->
+    <div class="slider_area">
+        <div class="single_slider  d-flex align-items-center slider_bg_1 overlay">
+            <div class="container">
+                <div class="row align-items-center justify-content-start">
+                    <div class="col-lg-10 col-md-10">
+                        <div class="slider_text">
+                        
+                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
+                              
+                                Make It Easy
+                            </h3>
+                            
+                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#marketing" style="background-color: purple;">Digital Marketing</a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- slider_area_end -->
+    
 	<!-- Start Sample Area -->
-	   <section class="section-padding" id="support" style="background-color: #ffccff;">
+	   <section class="section-padding" id="marketing" style="background-color: #ffccff;">
        <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12">

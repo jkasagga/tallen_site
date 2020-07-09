@@ -25,6 +25,12 @@
     <link rel="stylesheet" href="css/slicknav.css">
     <link rel="stylesheet" href="css/style.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+    <style>
+        .slider_bg_2 {
+             background-image: url(img/bgimg1.jpg);
+            
+        }
+    </style>
 </head>
 
 <body>
@@ -47,6 +53,9 @@
                 <div class="row align-items-center justify-content-start">
                     <div class="col-lg-12 col-md-12">
                         <div class="slider_text bradcam_text text-center">
+                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
+                                Make It Easy
+                            </h3>
                             <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s" href="products.php" style="background-color: purple;">Visit Our Works</a>
                             <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s" href="#web" style="background-color: purple;">Web Services</a>
                         </div>
@@ -79,7 +88,7 @@
                                 <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Web hosting is a service that allows organizations and individuals to post a website or web page onto the Internet. A web host, or web hosting service provider, is a business that provides the technologies and services needed for the website or webpage to be viewed in the Internet. Websites are hosted, or stored, on special computers called servers. When Internet users want to view your website, all they need to do is type your website address or domain into their browser. Their computer will then connect to your server and your webpages will be delivered to them through the browser.</p>
                                 
                                 <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Hosting require that you own your domain in order to host your website. If you do not have a domain, TALLEN will help you purchase one and give you exclusive access to the following services.
-                                </p><br>
+                                </p><br><br>
                                 <img src="img/webhost.webp" style="width:100%; height:360px; border-radius: 5px" class="image-fluid"><br><br><br><br><br><br><br><br>
                             </div>
                         </article>

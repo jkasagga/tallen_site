@@ -25,6 +25,11 @@
     <link rel="stylesheet" href="css/slicknav.css">
     <link rel="stylesheet" href="css/style.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+    <style>
+    .slider_bg_1 {
+       background-image: url(img/Data%20Centre_Image.jpg);
+    }
+    </style>
 </head>
 
 <body>
@@ -39,19 +44,29 @@
         ?>
     </header>
     <!-- header-end -->
-
-    <!-- portfolio_details_banner_start  -->
-   <div class="bradcam_area breadcam_bg_3">
-    <div class="container">
-      <div class="row">
-          <div class="col-xl-12">
-              <div class="bradcam_text">
-                  <a class="boxed-btn3 wow" href="#support" style="background-color: purple;">I.T Support</a>
-              </div>
-          </div>
-      </div>
+<!-- slider_area_start -->
+    <div class="slider_area">
+        <div class="single_slider  d-flex align-items-center slider_bg_1 overlay">
+            <div class="container">
+                <div class="row align-items-center justify-content-start">
+                    <div class="col-lg-10 col-md-10">
+                        <div class="slider_text">
+                        
+                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
+                              
+                                Make It Easy
+                            </h3>
+                            
+                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#support" style="background-color: purple;">I.T Support</a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
+    <!-- slider_area_end -->
+   
     <hr class="mb-0 mt-0" style="width: 95%; color: red;"> 
     <!-- portfolio_details_banner_end  -->
    <section class="section-padding" id="support" style="background-color: #ffccff;">
@@ -122,7 +137,7 @@
                                     <h2>Data Security&nbsp;&amp;&nbsp;Data Back up</h2>
                                 </a>
                                 <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">One of the most important aspects of business success is data storage. Whether your business has to store employee records, financial details, assets, company expansion plans, customer records or everything about the company, it is imperative that you settle for the best possible data storage solution. It would be unfortunate for a company in this age to be grounded just because data is lost, damaged or compromised and there is no way to recover it.</p> 
-                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Data integrity and security is very serious and many companies invest a fortune to make sure that their information is safe and secure. If you are looking for one of the most reliable, secure and reasonably priced data storage solution options on the market write to us at <strong>tallen.tallen@tech.com</strong></p> <br><br><br><br><br><br>
+                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Data integrity and security is very serious and many companies invest a fortune to make sure that their information is safe and secure. If you are looking for one of the most reliable, secure and reasonably priced data storage solution options on the market write to us at <strong>tallen.tallen@tech.com</strong></p> <br><br><br><br><br><br><br>
                      </div>
                         </article>
             </div>
