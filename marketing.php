@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>StartUp</title>
+	<title>Make It Easy</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -86,7 +86,7 @@
                                     <h2 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Video Marketing</h2>
                                 </a>
                                 <p class="fadeInUp excert" data-wow-duration="1s" data-wow-delay=".6s">Video marketing is a digital marketing tool based on using audiovisual images, mainly on the internet, to achieve different goals in a marketing strategy. Basically, TALLEN adds videos to your content marketing strategy.</p>
-                                <img src="img/Video%20marketing%20for%20social%20media.png" alt="video-marketing" style="width:100%; height:250px">
+                                <img src="img/Video%20marketing%20for%20social%20media.png" alt="video-marketing" style="width:100%; height:250px; border-radius: 5px">
                             </div>
                         </article>
                 </div>

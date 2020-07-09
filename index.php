@@ -52,7 +52,7 @@
                         
                             <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
                               
-                                Make it easy
+                                Make It Easy
                             </h3>
                             
                             <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#service" style="background-color: purple;">Our services</a>
