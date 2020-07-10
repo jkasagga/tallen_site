@@ -54,10 +54,9 @@
                         
                             <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
                               
-                                Make It Easy
+                            Digital  Marketing
                             </h3>
                             
-                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#marketing" style="background-color: purple;">Digital Marketing</a>
                             
                         </div>
                     </div>
@@ -73,8 +72,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-12">
                 <div class="section_title text-center mb-90">
-                    <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Digital  Marketing</h3>
-                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">We Offer a Range of Services in the Digital Marketing Domain.</p>
+               
+                    <p style="font-size:2vmax;" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">We Offer a Range of Services in the Digital Marketing Domain.</p>
                 </div>
             </div>
         </div>

@@ -43,8 +43,8 @@
     <!-- header-end -->
 
     <!-- slider_area_start -->
-    <div class="slider_area">
-        <div class="single_slider  d-flex align-items-center slider_bg_1 overlay">
+    <div class="slider_area" >
+        <div class="single_slider  d-flex align-items-center slider_bg_1 overlay" style="height:680px;">
             <div class="container">
                 <div class="row align-items-center justify-content-start">
                     <div class="col-lg-10 col-md-10">
@@ -55,8 +55,8 @@
                                 Make It Easy
                             </h3>
                             
-                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#service" style="background-color: purple;">Our services</a>
-                            
+                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#service" style="background-color: purple; margin-bottom:10px;">Our services</a>
+                            <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s" href="products.php" style="background-color: purple;">Visit Our Works</a>
                         </div>
                     </div>
                 </div>

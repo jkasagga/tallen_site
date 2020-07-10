@@ -58,11 +58,10 @@
                         
                             <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
                               
-                                Make it easy
+                                About Us
                             </h3>
                             
-                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#call-to-action" style="background-color: purple;">About Us</a>
-                            
+                          
                         </div>
                     </div>
                 </div>
@@ -79,7 +78,7 @@
                     <div class="about_info">
                         <div class="section_title white_text">
                             <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></span>
-                            <!-- <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">About Us </h3> -->
+                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">About Tallen </h3>
                             <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                             Tallen is a web development and information technology company in Uganda. We harness technology to develop web and technology
 based solutions, products and services that simplify life. We believe in the power of making things easy for people. It is an inspiring

@@ -182,10 +182,10 @@
                 </div>
                 <div class="row justify-content-center">
                        <div class="col-md-3 offset-md-3" >
-                           <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#kanika"  style="background-color: purple;">Kanika</a>
+                           <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#kanika"  style="background-color: purple; margin-bottom:10px;">Kanika</a>
                        </div>
                        <div class="col-md-3">
-                          <a class="boxed-btn3 wow fadeInRight"  data-wow-duration="1s" data-wow-delay=".2s" href="#gonza" style="background-color: purple;">Gonza</a>
+                          <a class="boxed-btn3 wow fadeInRight"  data-wow-duration="1s" data-wow-delay=".2s" href="#gonza" style="background-color: purple; margin-bottom:10px;">Gonza</a>
                        </div>
                        <div class="col-md-3">
                           <a class="boxed-btn3 wow fadeInRight"  data-wow-duration="1s" data-wow-delay=".2s" href="#" style="background-color: purple;">Sooma</a>
@@ -197,7 +197,37 @@
     </div>
   </div>
     </div>
-     <section class="section-padding" id="kanika" style="background-color: #ffccff;">
+     <div class="container">
+     
+     
+     <section class="section-padding" id="gonza" style="background-color: #ffccff;">
+         <div class="gonza_area">
+             <div class="container">
+             <div class="row justify-content-end">
+                 <div class="col-lg-5 offset-lg-1">
+                     <div class="about_info">
+                         <div class="section_title white_text">
+                             <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></span>
+                             <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">GONZA </h3>
+                             <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
+                             Everybody yarns to be of purpose in this world, support help and contribute to building a better place for you and me to live. Searching for a job, internship or mentorship can be a daunting and frustrating experience. To get a job, you need experience, and to get experience, you need a job. Confusing huh! Either you lack the skills, have little or no experience or your personality is wanting. Sometimes all it takes is an opportunity to acquire practical skills through internships and receive mentorship from experts to improve your personal image and just like that, you are ready for your first job.
+                             Sounds easy right! Yes, it is because GONZA makes it so and this is how. With creation of just one account on our mobile application, you are ushered into a world of limitless possibilities. Get expert career advice from real mentors to make that informed decision, receive hands on customized coaching in searching for the right job, learn to write an application letter and CV and test your confidence through mock interviews. The platform also provides genuine information on current internship and job opportunities for entry talent. Seems like a lot, but the beauty is, all this at just a click of a button.
+                             </p><br>
+                             
+                             <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple;">Get Gonza</a><br><br><br>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+ 
+         </div>
+ 
+     </section> 
+
+     <hr class="mt-0 mb-0" style="border: 1px solid purple;"/>
+
+     	<section class="section-padding" id="kanika" style="background-color: #ffccff;">
         <div class="kanika_area">
             <div class="container">
             <div class="row justify-content-end">
@@ -223,32 +253,8 @@
 
     </section>    
 
-    <hr class="mt-0 mb-0" style="border: 1px solid purple;"/>
-     
-    <section class="section-padding" id="gonza" style="background-color: #ffccff;">
-        <div class="gonza_area">
-            <div class="container">
-            <div class="row justify-content-end">
-                <div class="col-lg-5 offset-lg-1">
-                    <div class="about_info">
-                        <div class="section_title white_text">
-                            <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></span>
-                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">GONZA </h3>
-                            <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                            Everybody yarns to be of purpose in this world, support help and contribute to building a better place for you and me to live. Searching for a job, internship or mentorship can be a daunting and frustrating experience. To get a job, you need experience, and to get experience, you need a job. Confusing huh! Either you lack the skills, have little or no experience or your personality is wanting. Sometimes all it takes is an opportunity to acquire practical skills through internships and receive mentorship from experts to improve your personal image and just like that, you are ready for your first job.
-                            Sounds easy right! Yes, it is because GONZA makes it so and this is how. With creation of just one account on our mobile application, you are ushered into a world of limitless possibilities. Get expert career advice from real mentors to make that informed decision, receive hands on customized coaching in searching for the right job, learn to write an application letter and CV and test your confidence through mock interviews. The platform also provides genuine information on current internship and job opportunities for entry talent. Seems like a lot, but the beauty is, all this at just a click of a button.
-                            </p><br>
-                            
-                            <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple;">Get Gonza</a><br><br><br>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        </div>
-
-    </section>    
+    
+     </div>   
 
        <!-- End About Section -->
     <hr>

@@ -51,14 +51,13 @@
         <div class="single_slider about_banner  d-flex align-items-center slider_bg_2 overlay">
             <div class="container">
                 <div class="row align-items-center justify-content-start">
-                    <div class="col-lg-12 col-md-12">
-                        <div class="slider_text bradcam_text text-center">
+                    <div class="col-lg-10 col-md-10">
+                        <div class="slider_text bradcam_text">
                             <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
-                                Make It Easy
+                            Web Services
                             </h3>
-                            <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s" href="products.php" style="background-color: purple;">Visit Our Works</a>
-                            <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s" href="#web" style="background-color: purple;">Web Services</a>
-                        </div>
+                            
+                         </div>
                     </div>
                 </div>
             </div>
@@ -71,8 +70,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 align-items-center">
                 <div class="section_title text-center mb-90">
-                    <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Web Services</h3>
-                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">At TALLEN We are a creative team that focus on delivering State of the Art Web and Mobile Based Applications to Our Customers.</p>
+                    
+                    <p style="font-size:2vmax;"  class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">At Tallen, We are a creative team that focus on delivering State of the Art Web and Mobile Based Applications to Our Customers.</p>
                 </div>
             </div>
         </div>

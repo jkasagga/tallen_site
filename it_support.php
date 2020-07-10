@@ -54,11 +54,10 @@
                         
                             <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
                               
-                                Make It Easy
+                            I.T Support Services
                             </h3>
                             
-                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#support" style="background-color: purple;">I.T Support</a>
-                            
+                         
                         </div>
                     </div>
                 </div>
@@ -73,9 +72,9 @@
        <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12">
-                <div class="section_title text-center mb-90">
-                    <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">I.T Support Services</h3>
-                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">We Offer a Range of Services in the I.T Support Domain.</p>
+                <div class="section_title text-center mb-40">
+                    
+                    <p style="font-size:2vmax;" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">We Offer a Range of Services in the I.T Support Domain.</p>
                 </div>
             </div>
         </div>
