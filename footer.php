@@ -1,13 +1,14 @@
-<footer class="footer">
+<footer class="footer" style="margin-top: 0px; padding-top: 5px;  background: #1F1F1F;">
 
-        <div class="copy-right_text">
+       
             <div class="container">
                 <div class="footer_border"></div>
                 <div class="row">
                     <div class="col-xl-12">
                     <div class="socail_links">
                             <ul>
-                                <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" href="#"> <i class="fa fa-facebook" style="color: #3B5998;"></i> </a></li>
+                                <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" 
+                                       href="#"> <i class="fa fa-facebook" style="color: #3B5998;"></i> </a></li>
                                 <li><a class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" href="#"> <i class="fa fa-twitter" style="color: #00aced;"></i> </a></li>
                               </ul>
                         </div>
@@ -21,5 +22,5 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     </div>
                 </div>
             </div>
-        </div>
+        
     </footer>

@@ -1,12 +1,12 @@
-<div class="header-area ">
-            <div id="sticky-header" class="main-header-area" style="background-color: purple;">
+<div class="header-area">
+            <div id="sticky-header" class="main-header-area" style="background-color: #020c26;">
                 <div class="container-fluid p-0">
                     <div class="row align-items-center no-gutters">
                         <div class="col-xl-4 col-lg-4">
                             <div class="logo-img">
                                 <a href="index.php">
                                 <h1 > <img src="img/logo.jpg" alt="">
-                                    <span class="text-light"><i>TALLEN</i></span></h1>
+                                    <span class="text-light">TALLEN</span></h1>
                                 </a>
                             </div>
                         </div>

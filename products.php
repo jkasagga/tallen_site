@@ -21,142 +21,7 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 <style>
-    
-.kanika_area {
-  background: #1a1a1a;
-  position: relative;
-
-}
-.kanika_area::before {
-  content: '';
-  background-image: url(img/about/kanika.jpg);
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 50%;
-  z-index: 9;
-  background-size: cover;
-  position: absolute;
-  background-size: contain;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-@media (max-width: 767px) {
-  /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-  .kanika_area::before {
-    display: none;
-  }
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-  .kanika_area::before {
-    display: none;
-  }
-}
-
-/* line 23, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-.kanika_area .about_thumb {
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 50%;
-}
-
-/* line 29, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-.kanika_area .about_thumb img {
-  width: 100%;
-}
-
-/* line 33, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-.kanika_area .about_info {
-  padding: 160px 0;
-}
-
-@media (max-width: 767px) {
-  /* line 33, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-  .kanika_area .about_info {
-    padding: 80px 0;
-  }
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  /* line 33, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-  .kanika_area .about_info {
-    padding: 100px 0;
-  }
-}
-
-@media (min-width: 992px) and (max-width: 1200px) {
-  /* line 33, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-  .kanika_area .about_info {
-    padding: 100px 0;
-  }
-}
-
-/* line 46, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-.kanika_area .section_title h3 {
-  margin-top: 25px;
-  margin-bottom: 54px;
-}
-
-@media (min-width: 992px) and (max-width: 1200px) {
-  /* line 46, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-  .kanika_area .section_title h3 {
-    font-size: 35px;
-    margin-bottom: 20px;
-  }
-}
-
-@media (min-width: 1200px) and (max-width: 1500px) {
-  /* line 46, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-  .kanika_area .section_title h3 {
-    font-size: 35px;
-    margin-bottom: 15px;
-  }
-}
-
-/* line 58, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-.kanika_area .section_title .mid_text {
-  color: #C9C9C9;
-  font-size: 16px;
-  font-weight: 400;
-  margin-bottom: 14px;
-}
-
-/* line 64, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-.kanika_area .section_title .last_text {
-  color: #C9C9C9;
-  font-size: 18px;
-  font-weight: 400;
-  margin-bottom: 44px;
-}
-
- .gonza_area {
-  background: #1a1a1a;
-  position: relative;
  
-}
-.gonza_area::before {
-  content: '';
-  background-image: url(img/about/gonza.jpg);
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 50%;
-  z-index: 9;
-  background-size: cover;
-  position: absolute;
-  background-size:contain;
-  background-position: center center;
-}
-    @media (max-width: 767px) {
-  /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
-  .gonza_area::before {
-    display: none;
-  }
-}
 </style>
 
 </head>
@@ -197,64 +62,53 @@
     </div>
   </div>
     </div>
-     <div class="container">
-     
-     
-     <section class="section-padding" id="gonza" style="background-color: #ffccff;">
-         <div class="gonza_area">
-             <div class="container">
-             <div class="row justify-content-end">
-                 <div class="col-lg-5 offset-lg-1">
-                     <div class="about_info">
-                         <div class="section_title white_text">
-                             <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></span>
-                             <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">GONZA </h3>
-                             <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                             Everybody yarns to be of purpose in this world, support help and contribute to building a better place for you and me to live. Searching for a job, internship or mentorship can be a daunting and frustrating experience. To get a job, you need experience, and to get experience, you need a job. Confusing huh! Either you lack the skills, have little or no experience or your personality is wanting. Sometimes all it takes is an opportunity to acquire practical skills through internships and receive mentorship from experts to improve your personal image and just like that, you are ready for your first job.
-                             Sounds easy right! Yes, it is because GONZA makes it so and this is how. With creation of just one account on our mobile application, you are ushered into a world of limitless possibilities. Get expert career advice from real mentors to make that informed decision, receive hands on customized coaching in searching for the right job, learn to write an application letter and CV and test your confidence through mock interviews. The platform also provides genuine information on current internship and job opportunities for entry talent. Seems like a lot, but the beauty is, all this at just a click of a button.
-                             </p><br>
-                             
-                             <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple;">Get Gonza</a><br><br><br>
-                         </div>
-                     </div>
+    
+     <section class="section-padding" style="background-color: #020c26;">
+         <div class="container">
+             <div class="row">
+                 <div class="col-lg-6">
+                     <img src="img/about/kanika.jpg" class="img" style="height: 90%; border-radius: 15px; padding-top: 10px;">
                  </div>
-             </div>
-         </div>
- 
-         </div>
- 
-     </section> 
-
-     <hr class="mt-0 mb-0" style="border: 1px solid purple;"/>
-
-     	<section class="section-padding" id="kanika" style="background-color: #ffccff;">
-        <div class="kanika_area">
-            <div class="container">
-            <div class="row justify-content-end">
-                <div class="col-lg-5 offset-lg-2">
-                    <div class="about_info">
-                        <div class="section_title white_text">
-                            <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></span>
-                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">KANIKA</h3>
-                            <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
+                 <div class="col-lg-6">
+                     
+                         <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></span>
+                            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" style="color:red; text-align: center">KANIKA</h3>
+                            
+                            <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="text-align: justify;">
                             Are you stuck on the road? Has your car or motorcycle broken down while in transit? Have you run out of fuel or you need a quick wash for your vehicle? Much as all these questions seem ordinary, it gets frustrating and costly when you find yourself asking for the answers
                             At the click of a button, you can sit back and enjoy the most affordable hustle free service repairs and maintenance from the best mechanics and vehicle maintenance specialists
                             Delivered through a mobile application, KANIKA allows users to register and gain access to a network of topnotch mechanics, Garages, washing bays and fueling stations within a mile’s reach. Depending on the issue, users simply access the KANIKA platform, chose where their issue belongs i.e. service repairs e.g. a flat tire, maintenance e.g. painting a scratch, washing the vehicle (nearest paint shop/garage) or washing bay, or support e.g. distance to the nearest fueling station or garage. The platform puts together a network of well researched and tested service providers who focus on quality and customer satisfaction.
                             </p>
                             
-                            <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple;">Get kanika</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+                            <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple; float: right">Get kanika</a><br><br>
+                       
+                 </div>
+             </div>
+             <div class="row justify-content-center">
+                 <div class="col-lg-6">
+                     <img src="img/about/gonza.jpg" class="img"  style="height: 90%; border-radius: 10px">
+                 </div>
+                 <div class="col-lg-6">
+                     
+                         
+                             <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></span>
+                             <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s" style="color: red; text-align: center;">GONZA </h3>
+                             <p class="mid_text wow fadeInUp align-items-center" data-wow-duration="1s" data-wow-delay=".5s" style="text-align: justify;">
+                             Everybody yarns to be of purpose in this world, support help and contribute to building a better place for you and me to live. Searching for a job, internship or mentorship can be a daunting and frustrating experience. To get a job, you need experience, and to get experience, you need a job. Confusing huh! Either you lack the skills, have little or no experience or your personality is wanting. Sometimes all it takes is an opportunity to acquire practical skills through internships and receive mentorship from experts to improve your personal image and just like that, you are ready for your first job.
+                             Sounds easy right! Yes, it is because GONZA makes it so and this is how. With creation of just one account on our mobile application, you are ushered into a world of limitless possibilities. Get expert career advice from real mentors to make that informed decision, receive hands on customized coaching in searching for the right job, learn to write an application letter and CV and test your confidence through mock interviews. The platform also provides genuine information on current internship and job opportunities for entry talent. Seems like a lot, but the beauty is, all this at just a click of a button.
+                             </p>
+                             
+                             <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple; float: right;">Get Gonza</a><br><br><br>
+                 </div>
+             </div>
+         </div>
+     </section> 
 
-        </div>
+     <!--<hr class="mt-0 mb-0" style="border: 1px solid purple;"/>
 
-    </section>    
-
-    
-     </div>   
+     	<section class="section-padding" id="kanika" style="background-color: #ffccff;">
+        
+    </section>-->
 
        <!-- End About Section -->
     <hr>

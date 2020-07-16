@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>StartUp</title>
+    <title>Contact | Us</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -53,7 +53,7 @@
       <div class="row">
           <div class="col-xl-12">
               <div class="bradcam_text">
-                  <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#contact" style="background-color: purple;">Contact Us</a>
+                  <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#contact" style="background-color: #020c26;">Contact Us</a>
               </div>
           </div>
       </div>
@@ -63,7 +63,7 @@
 
   <!-- ================ contact section start ================= -->
 
-  <section data-scroll-index="0" class="section-padding" style="background-color: ghost;">
+  <section data-scroll-index="0" style="background-color: #020c26;">
       <div class="get_in_tauch_area">
           <div class="container">
             <div class="row justify-content-center">
@@ -80,9 +80,9 @@
           </div>
           </div>
     </section>
-      <hr style="padding: 0; width: 95%;">
+      <!--<hr style="padding: 0; width: 95%;" mt-0 mb-0>-->
 
-  <section class="contact-section section_padding">
+  <section class="contact-section" style="background-color: #020c26;">
   <div class="row justify-content-center">
         
         <div class="col-lg-12">
@@ -120,7 +120,7 @@
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="submit_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
-                                        <button class="boxed-btn3" type="submit" style="background-color: purple;">Send Message</button>
+                                        <button class="boxed-btn3 btn btn-success" type="submit">Send Message</button>
                                     </div>
                                 </div>
                             </div>
@@ -157,7 +157,7 @@
       </div>
       </div>
   </section>
-  <!-- ================ contact section end ================= -->
+  <!-- ================ contact section end ================== -->
 
     <!-- footer start -->
     <?php include("footer.php"); ?>

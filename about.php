@@ -79,7 +79,7 @@
                         <div class="section_title white_text">
                             <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></span>
                             <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">About Tallen </h3>
-                            <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
+                            <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="text-align: justify;">
                             Tallen is a web development and information technology company in Uganda. We harness technology to develop web and technology
 based solutions, products and services that simplify life. We believe in the power of making things easy for people. It is an inspiring
 story of limitless possibilities that starts with the people, built by the people for the people.
@@ -116,7 +116,7 @@ story of limitless possibilities that starts with the people, built by the peopl
                   
                 </div>
                 <div class="timeline-body">
-                  <p >Tallen is Tech-enterprise that started in November 2019 with the aim of simplifying your life the more by providing to you several softwares such as the Kanika and Gonza. These softwares are well explained about above in our projects section. </p>
+                  <p style="text-align: justify;">Tallen is Tech-enterprise that started in November 2019 with the aim of simplifying your life the more by providing to you several softwares such as the Kanika and Gonza. These softwares are well explained about above in our projects section. </p>
                 </div>
               </div>
             </li>
@@ -129,7 +129,7 @@ story of limitless possibilities that starts with the people, built by the peopl
                   <h4>ABOUT US</h4>
                   
                 </div>
-                <div class="timeline-body">
+                <div class="timeline-body" style="text-align: justify;">
                   <p > Tallen harnesses technology to serve people at a touch of a button. Today millions of people are required to move to a building or some place to receive a service or a product they need. Most of these time-consuming movements can be avoided through appropriate technological options. We want to simplify life for people to get whatever they need quickest. We are deeply exited about the power of making things easy for people. It's an inspiring story of unfolding limitless for today and tomorrow. It all starts with the people. It's built by the people for the people.  </p>
                 </div>
               </div>

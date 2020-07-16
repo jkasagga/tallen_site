@@ -27,7 +27,15 @@
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 </head>
 <style>
-
+@media (max-width: 767px) {
+    .footer{
+       margin: 5px;
+       padding: 0px;
+    } 
+}
+    .service_area{
+        padding: 0;
+    }
 </style>
 <body>
     <!--[if lte IE 9]>
@@ -50,13 +58,13 @@
                     <div class="col-lg-10 col-md-10">
                         <div class="slider_text">
                         
-                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
+                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s" style="color: green;">
                               
                                 Make It Easy
                             </h3>
                             
-                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#service" style="background-color: purple; margin-bottom:10px;">Our services</a>
-                            <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s" href="products.php" style="background-color: purple;">Visit Our Works</a>
+                            <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#service" style="margin-bottom:10px;">Our services</a>
+                            <a class="boxed-btn3 wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s" href="products.php" style="margin-bottom:10px;">Visit Our Works</a>
                         </div>
                     </div>
                 </div>
@@ -81,7 +89,7 @@
             <div class="row">
                 <div class="col-xl-4 col-md-4">
                     <a href="it_support.php">
-                    <div class="single_service text-center wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".4s" style="border: 1px solid purple;">
+                    <div class="single_service text-center wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".4s" style="border: 1px solid black;">
                         <div class="icon">
                             <img src="img/svg_icon/1.svg" alt="">
                         </div>
@@ -104,8 +112,8 @@
                     
                 </div>
                 <div class="col-xl-4 col-md-4">
-                <a href="web_services.php" style="background-color: purple;">
-                    <div class="single_service text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="border: 1px solid purple;">
+                    <a href="web_services.php">
+                    <div class="single_service text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="border: 1px solid black;">
                         <div class="icon">
                             <img src="img/svg_icon/2.svg" alt="">
                         </div>
@@ -126,7 +134,7 @@
                 </div>
                 <div class="col-xl-4 col-md-4">
                 <a href="marketing.php" style="background-color: purple;">
-                    <div class="single_service text-center wow fadeInRight" data-wow-duration="1.2s" data-wow-delay=".4s" style="border: 1px solid purple;">
+                    <div class="single_service text-center wow fadeInRight" data-wow-duration="1.2s" data-wow-delay=".4s" style="border: 1px solid black;">
                         <div class="icon">
                             <img src="img/svg_icon/3.svg" alt="">
                         </div>
@@ -149,11 +157,10 @@
             </div>
         </div>
     </div>
-    <!--/ service_area  -->
-<hr class="mb-2 mt-2" style="width: 90%;">    
+    <!--/ service_area  <hr class="mb-2 mt-2" style="width: 90%;">-->    
     <!-- About Us-->
     <section>
-    <div class="container">
+    <!--<div class="container mt-0 mb-0">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="section_title text-center ">
@@ -162,7 +169,7 @@
                     </div>
                 </div>
             </div>
-            </div>
+            </div>-->
     <div class="about_area" id="about">
         <div class="container">
             
@@ -172,13 +179,13 @@
                         <div class="section_title white_text">
                             <span class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"></span>
                             <!-- <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">About Us </h3> -->
-                            <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
+                            <p class="mid_text wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s" style="text-align: justify;">
                             Tallen is a web development and information technology company in Uganda. We harness technology to develop web and technology
 based solutions, products and services that simplify life. We believe in the power of making things easy for people. It is an inspiring
 story of limitless possibilities that starts with the people, built by the people for the people.
                             </p>
                             
-                            <a href="about.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple;">Read More</a>
+                            <a href="about.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple;">About Us</a>
                         </div>
                     </div>
                 </div>
@@ -188,7 +195,7 @@ story of limitless possibilities that starts with the people, built by the peopl
 
     </section> 
    <!-- End about Us-->        
-    <hr class="mb-2 mt-2" style="width: 90%;">        
+    <!--<hr class="mb-2 mt-2" style="width: 90%;">        
     <!--/ team_member_end -->
 
     <div data-scroll-index="0" class="get_in_tauch_area" id="contact" style="background-color: ghostwhite;">
@@ -263,7 +270,7 @@ story of limitless possibilities that starts with the people, built by the peopl
             </div>
         </div>
     </div>
-<hr class="mb-2 mt-2" style="width: 90%;">  
+<!--<hr class="mb-2 mt-2" style="width: 90%;">-->  
     <!-- footer start -->
     <?php include("footer.php"); ?>
     <!--/ footer end  -->
