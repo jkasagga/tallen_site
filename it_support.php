@@ -31,7 +31,7 @@
     }
         .blog_item:hover{
             opacity: 1.0;
-            background: red;
+           
         }
     </style>
 </head>
@@ -84,7 +84,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-6">
-                <article class="blog_item" style="border: 1px solid black;">
+                <article class="blog_item" style="border: 1px solid #C9C9C9;">
                     <div class="blog_details">
                         <a class="d-inline-block" href="#">
                             <h2>Help desk</h2>
@@ -93,7 +93,7 @@
                 </article>
             </div>
             <div class="col-lg-6">
-                 <article class="blog_item" style="border: 1px solid black;">
+                 <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details">
                                 <a class="d-inline-block" href="#">
                                     <h2>File Servers</h2>
@@ -103,7 +103,7 @@
                         </article>
             </div>
             <div class="col-lg-6">
-                <article class="blog_item" style="border: 1px solid black;">
+                <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details">
                                 <a class="d-inline-block" href="#">
                                     <h2>Email Services</h2>
@@ -112,7 +112,7 @@
                         </article>
             </div>
             <div class="col-lg-6">
-                 <article class="blog_item" style="border: 1px solid black;">
+                 <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details">
                                 <a class="d-inline-block" href="#">
                                     <h2>Computer Repair</h2>
@@ -121,7 +121,7 @@
                         </article>
             </div>
             <div class="col-lg-6">
-                <article class="blog_item" style="border: 1px solid black;">
+                <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details">
                                 <a class="d-inline-block" href="#">
                                     <h2>Network Equipment</h2>
@@ -134,18 +134,18 @@
                         </article>
             </div>
             <div class="col-lg-6">
-                 <article class="blog_item" style="border: 1px solid black;">
+                 <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details">
                                 <a class="d-inline-block" href="#">
                                     <h2>Data Security&nbsp;&amp;&nbsp;Data Back up</h2>
                                 </a>
                                 <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="text-align: justify;">One of the most important aspects of business success is data storage. Whether your business has to store employee records, financial details, assets, company expansion plans, customer records or everything about the company, it is imperative that you settle for the best possible data storage solution. It would be unfortunate for a company in this age to be grounded just because data is lost, damaged or compromised and there is no way to recover it.</p> 
-                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="text-align: justify;">Data integrity and security is very serious and many companies invest a fortune to make sure that their information is safe and secure. If you are looking for one of the most reliable, secure and reasonably priced data storage solution options on the market write to us at <strong>tallen.tallen@tech.com</strong></p> <br><br><br><br><br><br><br>
+                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="text-align: justify;">Data integrity and security is very serious and many companies invest a fortune to make sure that their information is safe and secure. If you are looking for one of the most reliable, secure and reasonably priced data storage solution options on the market write to us at <strong>tallen.tallen@tech.com</strong></p> <br><br><br><br><br><br>
                      </div>
                         </article>
             </div>
             <div class="col-lg-12">
-                  <article class="blog_item" style="border: 1px solid black;">
+                  <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
                                     <h2>Virtualisation Services</h2>

@@ -65,7 +65,7 @@
     </div>
     <!-- slider_area_end -->
 
-    <section class="section-padding" id="web" style="background-color: #ffccff;">
+    <section class="section-padding" id="web" style="background-color: ghostwhite;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 align-items-center">
@@ -79,35 +79,35 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 mb-5 mb-lg-0">
                 <div class="blog_left_sidebar">
-                    <article class="blog_item" style="border: 1px solid purple;">
+                    <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
                                     <h2>Web Hosting (Space, Email, Domain Registration)</h2>
                                 </a>
-                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Web hosting is a service that allows organizations and individuals to post a website or web page onto the Internet. A web host, or web hosting service provider, is a business that provides the technologies and services needed for the website or webpage to be viewed in the Internet. Websites are hosted, or stored, on special computers called servers. When Internet users want to view your website, all they need to do is type your website address or domain into their browser. Their computer will then connect to your server and your webpages will be delivered to them through the browser.</p>
+                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="text-align: justify;">Web hosting is a service that allows organizations and individuals to post a website or web page onto the Internet. A web host, or web hosting service provider, is a business that provides the technologies and services needed for the website or webpage to be viewed in the Internet. Websites are hosted, or stored, on special computers called servers. When Internet users want to view your website, all they need to do is type your website address or domain into their browser. Their computer will then connect to your server and your webpages will be delivered to them through the browser.</p>
                                 
-                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Hosting require that you own your domain in order to host your website. If you do not have a domain, TALLEN will help you purchase one and give you exclusive access to the following services.
+                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="text-align: justify;">Hosting require that you own your domain in order to host your website. If you do not have a domain, TALLEN will help you purchase one and give you exclusive access to the following services.
                                 </p><br><br>
-                                <img src="img/webhost.webp" style="width:100%; height:360px; border-radius: 5px" class="image-fluid"><br><br><br><br><br><br><br><br>
+                                <img src="img/webhost.webp" style="width:100%; height:360px; border-radius: 5px" class="image-fluid"><br><br><br><br><br><br><br>
                             </div>
                         </article>
                 </div>
             </div>
             <div class="col-lg-4 mb-lg-0 justify-content-center">
-                <article class="blog_item" style="border: 1px solid purple;">
+                <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
-                                    <h2>Web Design</h2>
+                                    <h2 style="text-align: center;">Web Design</h2>
                                 </a>
-                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Web design encompasses many different skills and disciplines in the production and maintenance of websites. At TALLEN we offer the different areas of web design which include web graphic design; interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization.</p>  </div>
+                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="text-align: justify;">Web design encompasses many different skills and disciplines in the production and maintenance of websites. At TALLEN we offer the different areas of web design which include web graphic design; interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization.</p>  </div>
                         </article>
-                <article class="blog_item" style="border: 1px solid purple;">
+                <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details">
                                 <a class="d-inline-block" href="single-blog.html">
                                     <h2>Software Development</h2>
                                 </a>
-                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.</p>
-                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">At TALLEN we have a Team of Agile Software Developers for both Web based and Mobile based applications that meet the requirements of our Customers using a variety of modern Programming Technologies. </p>
+                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="text-align: justify;">Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.</p>
+                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="text-align: justify;">At TALLEN we have a Team of Agile Software Developers for both Web based and Mobile based applications that meet the requirements of our Customers using a variety of modern Programming Technologies. </p>
                             </div>
                         </article>
             </div>

@@ -67,7 +67,7 @@
     <!-- slider_area_end -->
     
 	<!-- Start Sample Area -->
-	   <section class="section-padding" id="marketing" style="background-color: #ffccff;">
+	   <section class="section-padding" id="marketing" style="background-color: ghostwhite;">
        <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12">
@@ -81,24 +81,24 @@
             <div class="col-lg-6 mb-5 mb-lg-0">
                 <div class="blog_left_sidebar">
                                         
-                    <article class="blog_item" style="border: 1px solid purple;">
+                    <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details align-items-center">
                                 <a class="d-inline-block" href="#">
                                     <center><h2 style="text-align: center">Social Media Marketing</h2></center>
                                 </a>
-                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">Social media marketing is the use of social media platforms to connect with your audience to build your brand, increase sales, and drive website traffic. This involves publishing great content on your social media profiles, listening to and engaging your followers, analyzing your results, and running social media advertisements</p><br><br><br><br><br><br><br><br>  
+                                <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s" style="text-align: justify;">Social media marketing is the use of social media platforms to connect with your audience to build your brand, increase sales, and drive website traffic. This involves publishing great content on your social media profiles, listening to and engaging your followers, analyzing your results, and running social media advertisements</p><br><br><br><br><br><br><br><br>  
                             </div>
                         </article>
                 </div>
             </div>
             <div class="col-lg-6 mb-5 mb-lg-0">
                 <div class="blog_left_sidebar">
-                    <article class="blog_item" style="border: 1px solid purple;">
+                    <article class="blog_item" style="border: 1px solid #C9C9C9;">
                             <div class="blog_details">
                                 <a class="d-inline-block" href="#">
                                     <h2 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Video Marketing</h2>
                                 </a>
-                                <p class="fadeInUp excert" data-wow-duration="1s" data-wow-delay=".6s">Video marketing is a digital marketing tool based on using audiovisual images, mainly on the internet, to achieve different goals in a marketing strategy. Basically, TALLEN adds videos to your content marketing strategy.</p>
+                                <p class="fadeInUp excert" data-wow-duration="1s" data-wow-delay=".6s" style="text-align: justify;">Video marketing is a digital marketing tool based on using audiovisual images, mainly on the internet, to achieve different goals in a marketing strategy. Basically, TALLEN adds videos to your content marketing strategy.</p>
                                 <img src="img/Video%20marketing%20for%20social%20media.png" alt="video-marketing" style="width:100%; height:250px; border-radius: 5px">
                             </div>
                         </article>

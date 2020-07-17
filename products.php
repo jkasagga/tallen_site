@@ -47,13 +47,13 @@
                 </div>
                 <div class="row justify-content-center">
                        <div class="col-md-3 offset-md-3" >
-                           <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#kanika"  style="background-color: purple; margin-bottom:10px;">Kanika</a>
+                           <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#kanika"  style="margin-bottom:10px;">Kanika</a>
                        </div>
                        <div class="col-md-3">
-                          <a class="boxed-btn3 wow fadeInRight"  data-wow-duration="1s" data-wow-delay=".2s" href="#gonza" style="background-color: purple; margin-bottom:10px;">Gonza</a>
+                          <a class="boxed-btn3 wow fadeInRight"  data-wow-duration="1s" data-wow-delay=".2s" href="#gonza" style="margin-bottom:10px;">Gonza</a>
                        </div>
                        <div class="col-md-3">
-                          <a class="boxed-btn3 wow fadeInRight"  data-wow-duration="1s" data-wow-delay=".2s" href="#" style="background-color: purple;">Sooma</a>
+                          <a class="boxed-btn3 wow fadeInRight"  data-wow-duration="1s" data-wow-delay=".2s" href="#" style="margin-bottom:10px;">Sooma</a>
                       </div>
                 </div>                          
             </div>
@@ -63,7 +63,7 @@
   </div>
     </div>
     
-     <section class="section-padding" style="background-color: #020c26;">
+     <section style="background-color: #C9C9C9;">
          <div class="container">
              <div class="row">
                  <div class="col-lg-6">
@@ -80,7 +80,7 @@
                             Delivered through a mobile application, KANIKA allows users to register and gain access to a network of topnotch mechanics, Garages, washing bays and fueling stations within a mile’s reach. Depending on the issue, users simply access the KANIKA platform, chose where their issue belongs i.e. service repairs e.g. a flat tire, maintenance e.g. painting a scratch, washing the vehicle (nearest paint shop/garage) or washing bay, or support e.g. distance to the nearest fueling station or garage. The platform puts together a network of well researched and tested service providers who focus on quality and customer satisfaction.
                             </p>
                             
-                            <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple; float: right">Get kanika</a><br><br>
+                            <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="float: right">Get kanika</a><br><br>
                        
                  </div>
              </div>
@@ -98,7 +98,7 @@
                              Sounds easy right! Yes, it is because GONZA makes it so and this is how. With creation of just one account on our mobile application, you are ushered into a world of limitless possibilities. Get expert career advice from real mentors to make that informed decision, receive hands on customized coaching in searching for the right job, learn to write an application letter and CV and test your confidence through mock interviews. The platform also provides genuine information on current internship and job opportunities for entry talent. Seems like a lot, but the beauty is, all this at just a click of a button.
                              </p>
                              
-                             <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple; float: right;">Get Gonza</a><br><br><br>
+                             <a href="#" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="float: right;">Get Gonza</a><br><br><br>
                  </div>
              </div>
          </div>
@@ -111,7 +111,6 @@
     </section>-->
 
        <!-- End About Section -->
-    <hr>
  <!-- footer start -->
    <?php include("footer.php"); ?>
     <!--/ footer end  -->

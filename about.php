@@ -70,7 +70,7 @@
     </div>
     <!-- /bradcam_area  -->
             
-    <section class="section-padding" style="background-color: ghostwhite;">
+    <section class="section-padding" style="background-color: #C9C9C9;">
         <div class="about_area">
             <div class="container">
             <div class="row justify-content-end">
@@ -85,7 +85,7 @@ based solutions, products and services that simplify life. We believe in the pow
 story of limitless possibilities that starts with the people, built by the people for the people.
                             </p>
                             
-                            <a href="contact.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple;">Reach Us</a>
+                            <a href="contact.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">Reach Us</a>
                         </div>
                     </div>
                 </div>
@@ -97,7 +97,7 @@ story of limitless possibilities that starts with the people, built by the peopl
     </section>    
        
       <!-- ======= Call To Action Section ======= -->
-      <section id="call-to-action" style="color: #d9d9d9;" >
+      <section id="call-to-action" style="color: #C9C9C9;" >
       <div class="container">
 
         

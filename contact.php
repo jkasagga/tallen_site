@@ -28,10 +28,13 @@
 </head>
 
 <style>
-  .get_in_tauch_area{
-    padding-top: 0;
-    padding-bottom: 0;
+  .get_in_tauch_area {
+    padding: 0px;
   }
+    .contact-section{
+        padding-top:0px; 
+            
+    }
 </style>
 
 <body>
@@ -53,7 +56,7 @@
       <div class="row">
           <div class="col-xl-12">
               <div class="bradcam_text">
-                  <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#contact" style="background-color: #020c26;">Contact Us</a>
+                  <a class="boxed-btn3 wow fadeInLeft"  data-wow-duration="1s" data-wow-delay=".2s" href="#contact">Contact Us</a>
               </div>
           </div>
       </div>
@@ -63,7 +66,7 @@
 
   <!-- ================ contact section start ================= -->
 
-  <section data-scroll-index="0" style="background-color: #020c26;">
+  <section data-scroll-index="0" style="background-color: ghostwhite;">
       <div class="get_in_tauch_area">
           <div class="container">
             <div class="row justify-content-center">
@@ -82,7 +85,7 @@
     </section>
       <!--<hr style="padding: 0; width: 95%;" mt-0 mb-0>-->
 
-  <section class="contact-section" style="background-color: #020c26;">
+  <section class="contact-section" style="background-color: ghostwhite;">
   <div class="row justify-content-center">
         
         <div class="col-lg-12">

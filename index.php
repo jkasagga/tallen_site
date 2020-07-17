@@ -58,7 +58,7 @@
                     <div class="col-lg-10 col-md-10">
                         <div class="slider_text">
                         
-                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s" style="color: green;">
+                            <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".1s">
                               
                                 Make It Easy
                             </h3>
@@ -89,7 +89,7 @@
             <div class="row">
                 <div class="col-xl-4 col-md-4">
                     <a href="it_support.php">
-                    <div class="single_service text-center wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".4s" style="border: 1px solid black;">
+                    <div class="single_service text-center wow fadeInLeft" data-wow-duration="1.2s" data-wow-delay=".4s" style="border: 1px solid #C9C9C9;">
                         <div class="icon">
                             <img src="img/svg_icon/1.svg" alt="">
                         </div>
@@ -113,7 +113,7 @@
                 </div>
                 <div class="col-xl-4 col-md-4">
                     <a href="web_services.php">
-                    <div class="single_service text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="border: 1px solid black;">
+                    <div class="single_service text-center wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" style="border: 1px solid #C9C9C9;">
                         <div class="icon">
                             <img src="img/svg_icon/2.svg" alt="">
                         </div>
@@ -133,8 +133,8 @@
 </a>
                 </div>
                 <div class="col-xl-4 col-md-4">
-                <a href="marketing.php" style="background-color: purple;">
-                    <div class="single_service text-center wow fadeInRight" data-wow-duration="1.2s" data-wow-delay=".4s" style="border: 1px solid black;">
+                <a href="marketing.php">
+                    <div class="single_service text-center wow fadeInRight" data-wow-duration="1.2s" data-wow-delay=".4s" style="border: 1px solid #C9C9C9;">
                         <div class="icon">
                             <img src="img/svg_icon/3.svg" alt="">
                         </div>
@@ -185,7 +185,7 @@ based solutions, products and services that simplify life. We believe in the pow
 story of limitless possibilities that starts with the people, built by the people for the people.
                             </p>
                             
-                            <a href="about.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s" style="background-color: purple;">About Us</a>
+                            <a href="about.php" class="boxed-btn3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">About Us</a>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@ story of limitless possibilities that starts with the people, built by the peopl
                                 </div>
                                 <div class="col-lg-12">
                                     <div class="submit_btn wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s">
-                                        <button class="boxed-btn3" type="submit" style="background-color: purple;">Send Message</button>
+                                        <button class="boxed-btn3" type="submit">Send Message</button>
                                     </div>
                                 </div>
                             </div>
