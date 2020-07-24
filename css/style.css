@@ -217,7 +217,7 @@ h3 {
 .overlay::before {
   position: absolute;
   content: "";
-  background-color: #1F1F1F;
+  background-color: #003355;
   top: 0;
   left: 0;
   width: 100%;
@@ -373,7 +373,8 @@ h3 {
 
 /* line 292, ../../Arafath/CL/December/233. Startup/HTML/scss/theme-default.scss */
 .mb-40 {
-  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-bottom: 10px;
 }
 
 /* line 295, ../../Arafath/CL/December/233. Startup/HTML/scss/theme-default.scss */
@@ -1194,9 +1195,8 @@ h3 {
   color: #FFF;
   font-family: "Roboto", sans-serif;
   font-size: 78px;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 84px;
-  margin-bottom: 54px;
 }
 
 /* line 34, ../../Arafath/CL/December/233. Startup/HTML/scss/_slider.scss */
@@ -5888,14 +5888,14 @@ h6 {
 
 /* line 529, ../../Arafath/CL/December/233. Startup/HTML/scss/_blog.scss */
 .blog_details {
-  padding: 30px 0 20px 10px;
+  padding: 20px 0 20px 10px;
   box-shadow: 0px 10px 20px 0px rgba(221, 221, 221, 0.3);
 }
 
 @media (min-width: 768px) {
   /* line 529, ../../Arafath/CL/December/233. Startup/HTML/scss/_blog.scss */
   .blog_details {
-    padding: 60px 30px 35px 35px;
+    padding: 30px 30px 35px 35px;
   }
 }
 

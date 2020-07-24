@@ -69,9 +69,9 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 align-items-center">
-                <div class="section_title text-center mb-90">
+                <div class="section_title text-center mb-40">
                     
-                    <p style="font-size:2vmax;"  class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">At Tallen, We are a creative team that focus on delivering State of the Art Web and Mobile Based Applications to Our Customers.</p>
+                    <p style="font-size:2vmax; font-weight:bold;"  class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">At Tallen, We are a creative team that focus on delivering State of the Art Web and Mobile Based Applications to Our Customers.</p>
                 </div>
             </div>
         </div>

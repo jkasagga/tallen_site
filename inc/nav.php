@@ -1,5 +1,5 @@
 <div class="header-area">
-            <div id="sticky-header" class="main-header-area" style="background-color: #020c26;">
+            <div id="sticky-header" class="main-header-area" style="background-color: #6c80b2;">
                 <div class="container-fluid p-0">
                     <div class="row align-items-center no-gutters">
                         <div class="col-xl-4 col-lg-4">

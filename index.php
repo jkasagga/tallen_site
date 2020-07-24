@@ -52,7 +52,7 @@
 
     <!-- slider_area_start -->
     <div class="slider_area" >
-        <div class="single_slider  d-flex align-items-center slider_bg_1 overlay" style="height:680px;">
+        <div class="single_slider  d-flex align-items-center slider_bg_1 overlay" style="height:580px;">
             <div class="container">
                 <div class="row align-items-center justify-content-start">
                     <div class="col-lg-10 col-md-10">

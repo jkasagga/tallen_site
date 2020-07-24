@@ -71,9 +71,9 @@
        <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12">
-                <div class="section_title text-center mb-90">
+                <div class="section_title text-center mb-40">
                
-                    <p style="font-size:2vmax;" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">We Offer a Range of Services in the Digital Marketing Domain.</p>
+                    <p style="font-size:2vmax; font-weight:bold;" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">We Offer a Range of Services in the Digital Marketing Domain.</p>
                 </div>
             </div>
         </div>
